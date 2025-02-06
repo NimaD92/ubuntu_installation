@@ -100,6 +100,7 @@ Host github.com
  Hostname ssh.github.com
  Port 443
 ```
+Note the SSH settings are computer specific and may be network connection specific. 
 
 # Download + install packages
 ## VS code
